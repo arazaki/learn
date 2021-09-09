@@ -1,0 +1,14 @@
+{
+  "plugins": ["testing-library", "jest-dom"],
+  "extends": ["plugin:prettier/recommended", "plugin:testing-library/react"],
+  "rules": {
+    "testing-library/await-async-query": "error",
+    "testing-library/no-await-sync-query": "error",
+    "testing-library/no-debug": "warn",
+    "testing-library/no-dom-import": "off"
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 2020
+  }
+}

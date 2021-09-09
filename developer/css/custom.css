@@ -1,0 +1,19 @@
+ul{
+    list-style: none;
+}
+
+.mc-quiz-answer--correct--is6Db{
+    background-color: aquamarine;
+}
+.unstyled-list{
+    display: inline-flex;
+}
+
+.unstyled-list li{
+    padding:0 1rem;
+}
+
+.detailed-result-panel--panel-row--2aE8z{
+    padding: 1rem;
+    border-bottom: 2px solid gray;
+}

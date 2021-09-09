@@ -1,0 +1,266 @@
+{
+  "polstermoebel": {
+    "name": "Polstermöbel",
+    "url": "polstermoebel",
+    "articleCount": 987,
+    "children": [
+      {
+        "url": "polsterzubehoer",
+        "articleCount": 543,
+        "name": "Polsterzubehör",
+        "children": null
+      },
+      {
+        "url": "relaxliegen",
+        "articleCount": 654,
+        "name": "Relaxliegen",
+        "children": [
+          {
+            "url": "recamiere",
+            "articleCount": 78,
+            "name": "Récamiere",
+            "children": [
+              {
+                "url": "polsterzubehoer",
+                "articleCount": 543,
+                "name": "Polsterzubehör",
+                "children": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "url": "hocker",
+        "articleCount": 1987,
+        "name": "Hocker",
+        "children": [
+          {
+            "url": "sitzsaecke",
+            "articleCount": 13,
+            "name": "Sitzsäcke",
+            "children": null
+          },
+          {
+            "url": "holzhocker",
+            "articleCount": 941,
+            "name": "Holzhocker",
+            "children": null
+          },
+          {
+            "url": "sitzpouf",
+            "articleCount": 987,
+            "name": "Sitzpouf",
+            "children": null
+          },
+          {
+            "url": "hockerbaenke",
+            "articleCount": 123,
+            "name": "Hockerbänke",
+            "children": null
+          },
+          {
+            "url": "polsterhocker",
+            "articleCount": 987,
+            "name": "Polsterhocker",
+            "children": null
+          },
+          {
+            "url": "drehhocker",
+            "articleCount": 65,
+            "name": "Drehhocker",
+            "children": null
+          },
+          {
+            "url": "badhocker",
+            "articleCount": 89,
+            "name": "Badhocker",
+            "children": null
+          },
+          {
+            "url": "tritthocker",
+            "articleCount": 987,
+            "name": "Tritthocker",
+            "children": null
+          },
+          {
+            "url": "klapphocker",
+            "articleCount": 654,
+            "name": "Klapphocker",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "sessel",
+        "articleCount": 6497,
+        "name": "Sessel",
+        "children": [
+          {
+            "url": "schlafsessel",
+            "articleCount": 231,
+            "name": "Schlafsessel",
+            "children": null
+          },
+          {
+            "url": "relaxsessel",
+            "articleCount": 4154,
+            "name": "Relaxsessel",
+            "children": null
+          },
+          {
+            "url": "cocktailsessel",
+            "articleCount": 987,
+            "name": "Cocktailsessel",
+            "children": null
+          },
+          {
+            "url": "clubsessel",
+            "articleCount": 641,
+            "name": "Clubsessel",
+            "children": null
+          },
+          {
+            "url": "drehsessel",
+            "articleCount": 987,
+            "name": "Drehsessel",
+            "children": null
+          },
+          {
+            "url": "polstersessel",
+            "articleCount": 987,
+            "name": "Polstersessel",
+            "children": null
+          },
+          {
+            "url": "soundsessel",
+            "articleCount": 947,
+            "name": "Soundsessel",
+            "children": null
+          },
+          {
+            "url": "massagesessel",
+            "articleCount": 987,
+            "name": "Massagesessel",
+            "children": null
+          },
+          {
+            "url": "kindersessel",
+            "articleCount": 987,
+            "name": "Kindersessel",
+            "children": null
+          },
+          {
+            "url": "loungesessel",
+            "articleCount": 642,
+            "name": "Lounge Sessel",
+            "children": null
+          },
+          {
+            "url": "fernsehsessel",
+            "articleCount": 613,
+            "name": "Fernsehsessel",
+            "children": null
+          },
+          {
+            "url": "chesterfield-sessel",
+            "articleCount": 987,
+            "name": "Chesterfield Sessel",
+            "children": null
+          },
+          {
+            "url": "rattansessel",
+            "articleCount": 613,
+            "name": "Rattansessel",
+            "children": null
+          },
+          {
+            "url": "schaukel-sessel",
+            "articleCount": 643,
+            "name": "Schaukelsessel",
+            "children": null
+          },
+          {
+            "url": "ledersessel",
+            "articleCount": 315,
+            "name": "Ledersessel",
+            "children": null
+          },
+          {
+            "url": "ohrensessel",
+            "articleCount": 64,
+            "name": "Ohrensessel",
+            "children": null
+          }
+        ]
+      },
+      {
+        "url": "sofas",
+        "articleCount": 64,
+        "name": "Sofas",
+        "children": [
+          {
+            "url": "ottomanen",
+            "articleCount": 312,
+            "name": "Ottomanen  & Chaiselongues",
+            "children": null
+          },
+          {
+            "url": "wohnlandschaften",
+            "articleCount": 61,
+            "name": "Wohnlandschaften",
+            "children": null
+          },
+          {
+            "url": "sitzgruppen",
+            "articleCount": 31,
+            "name": "Sitzgruppen",
+            "children": null
+          },
+          {
+            "url": "big-sofas",
+            "articleCount": 987,
+            "name": "Big-Sofas",
+            "children": null
+          },
+          {
+            "url": "einzelsofas",
+            "articleCount": 987,
+            "name": "Einzelsofas",
+            "children": null
+          },
+          {
+            "url": "3-sitzer",
+            "articleCount": 987,
+            "name": "3-Sitzer",
+            "children": null
+          },
+          {
+            "url": "schlafsofas",
+            "articleCount": 61,
+            "name": "Schlafsofas",
+            "children": null
+          },
+          {
+            "url": "ledersofas",
+            "articleCount": 987,
+            "name": "Ledersofas",
+            "children": null
+          },
+          {
+            "url": "ecksofas",
+            "articleCount": 914,
+            "name": "Ecksofas",
+            "children": null
+          },
+          {
+            "url": "2-sitzer",
+            "articleCount": 987,
+            "name": "2-Sitzer",
+            "children": null
+          }
+        ]
+      }
+    ]
+  }
+}
